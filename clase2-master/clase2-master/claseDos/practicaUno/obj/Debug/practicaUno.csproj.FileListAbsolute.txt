@@ -1,0 +1,6 @@
+F:\claseDos\practicaUno\bin\Debug\practicaUno.exe.config
+F:\claseDos\practicaUno\bin\Debug\practicaUno.exe
+F:\claseDos\practicaUno\bin\Debug\practicaUno.pdb
+F:\claseDos\practicaUno\obj\Debug\practicaUno.csprojResolveAssemblyReference.cache
+F:\claseDos\practicaUno\obj\Debug\practicaUno.exe
+F:\claseDos\practicaUno\obj\Debug\practicaUno.pdb

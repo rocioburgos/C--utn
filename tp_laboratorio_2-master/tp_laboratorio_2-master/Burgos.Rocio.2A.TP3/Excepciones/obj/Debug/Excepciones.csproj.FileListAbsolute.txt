@@ -1,0 +1,6 @@
+L:\Burgos.Rocio.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+L:\Burgos.Rocio.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+L:\Burgos.Rocio.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+L:\Burgos.Rocio.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+L:\Burgos.Rocio.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+L:\Burgos.Rocio.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases.Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases.Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Entidades.dll
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Entidades.pdb
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases.Instanciables.csprojResolveAssemblyReference.cache
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases.Instanciables.csproj.CoreCompileInputs.cache
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Entidades.dll
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Entidades.pdb
+L:\Burgos.Rocio.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb

@@ -1,0 +1,5 @@
+D:\Burgos.Rocio\Burgos.Rocio\obj\Debug\Burgos.Rocio.csprojResolveAssemblyReference.cache
+D:\Burgos.Rocio\Burgos.Rocio\bin\Debug\Burgos.Rocio.dll
+D:\Burgos.Rocio\Burgos.Rocio\bin\Debug\Burgos.Rocio.pdb
+D:\Burgos.Rocio\Burgos.Rocio\obj\Debug\Burgos.Rocio.dll
+D:\Burgos.Rocio\Burgos.Rocio\obj\Debug\Burgos.Rocio.pdb

@@ -1,0 +1,5 @@
+F:\Burgos.Rocio\Entidades.Clase05\obj\Debug\Entidades.Clase05.csprojResolveAssemblyReference.cache
+F:\Burgos.Rocio\Entidades.Clase05\bin\Debug\Entidades.Clase05.dll
+F:\Burgos.Rocio\Entidades.Clase05\bin\Debug\Entidades.Clase05.pdb
+F:\Burgos.Rocio\Entidades.Clase05\obj\Debug\Entidades.Clase05.dll
+F:\Burgos.Rocio\Entidades.Clase05\obj\Debug\Entidades.Clase05.pdb

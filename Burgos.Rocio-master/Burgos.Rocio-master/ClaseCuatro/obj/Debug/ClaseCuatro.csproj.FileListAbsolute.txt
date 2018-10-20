@@ -1,0 +1,13 @@
+F:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.exe.config
+F:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.exe
+F:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.pdb
+F:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.csprojResolveAssemblyReference.cache
+F:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.exe
+F:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.pdb
+E:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.exe.config
+E:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.exe
+E:\Burgos.Rocio\ClaseCuatro\bin\Debug\ClaseCuatro.pdb
+E:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.csprojResolveAssemblyReference.cache
+E:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.csproj.CoreCompileInputs.cache
+E:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.exe
+E:\Burgos.Rocio\ClaseCuatro\obj\Debug\ClaseCuatro.pdb

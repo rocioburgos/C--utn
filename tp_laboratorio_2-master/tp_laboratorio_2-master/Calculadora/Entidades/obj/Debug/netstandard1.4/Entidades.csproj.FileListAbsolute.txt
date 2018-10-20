@@ -1,0 +1,8 @@
+C:\Users\familia\source\repos\Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.deps.json
+C:\Users\familia\source\repos\Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.dll
+C:\Users\familia\source\repos\Calculadora\Entidades\bin\Debug\netstandard1.4\Entidades.pdb
+C:\Users\familia\source\repos\Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\familia\source\repos\Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\familia\source\repos\Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.AssemblyInfo.cs
+C:\Users\familia\source\repos\Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.dll
+C:\Users\familia\source\repos\Calculadora\Entidades\obj\Debug\netstandard1.4\Entidades.pdb

@@ -1,0 +1,7 @@
+E:\lab II C#\claseDos\practicaQuince\bin\Debug\practicaQuince.exe.config
+E:\lab II C#\claseDos\practicaQuince\bin\Debug\practicaQuince.exe
+E:\lab II C#\claseDos\practicaQuince\bin\Debug\practicaQuince.pdb
+E:\lab II C#\claseDos\practicaQuince\obj\Debug\practicaQuince.csprojResolveAssemblyReference.cache
+E:\lab II C#\claseDos\practicaQuince\obj\Debug\practicaQuince.csproj.CoreCompileInputs.cache
+E:\lab II C#\claseDos\practicaQuince\obj\Debug\practicaQuince.exe
+E:\lab II C#\claseDos\practicaQuince\obj\Debug\practicaQuince.pdb

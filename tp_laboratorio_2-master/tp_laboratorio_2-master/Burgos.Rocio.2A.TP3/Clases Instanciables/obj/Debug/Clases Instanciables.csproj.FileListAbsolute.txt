@@ -1,0 +1,2 @@
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache

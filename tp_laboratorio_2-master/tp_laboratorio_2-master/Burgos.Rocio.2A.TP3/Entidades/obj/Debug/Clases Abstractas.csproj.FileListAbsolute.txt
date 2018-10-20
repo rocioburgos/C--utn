@@ -1,0 +1,2 @@
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Burgos.Rocio.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+F:\Burgos.Rocio\primerClase\bin\Debug\primerClase.exe.config
+F:\Burgos.Rocio\primerClase\bin\Debug\primerClase.exe
+F:\Burgos.Rocio\primerClase\bin\Debug\primerClase.pdb
+F:\Burgos.Rocio\primerClase\bin\Debug\mscorlib.dll
+F:\Burgos.Rocio\primerClase\bin\Debug\System.Net.Http.dll
+F:\Burgos.Rocio\primerClase\bin\Debug\System.Net.Http.xml
+F:\Burgos.Rocio\primerClase\bin\Debug\es\mscorlib.resources.dll
+F:\Burgos.Rocio\primerClase\bin\Debug\normidna.nlp
+F:\Burgos.Rocio\primerClase\bin\Debug\normnfc.nlp
+F:\Burgos.Rocio\primerClase\bin\Debug\normnfd.nlp
+F:\Burgos.Rocio\primerClase\bin\Debug\normnfkc.nlp
+F:\Burgos.Rocio\primerClase\bin\Debug\normnfkd.nlp
+F:\Burgos.Rocio\primerClase\obj\Debug\primerClase.csprojResolveAssemblyReference.cache
+F:\Burgos.Rocio\primerClase\obj\Debug\primerClase.exe
+F:\Burgos.Rocio\primerClase\obj\Debug\primerClase.pdb

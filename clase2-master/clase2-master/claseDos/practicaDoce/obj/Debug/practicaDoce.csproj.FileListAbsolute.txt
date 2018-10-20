@@ -1,0 +1,6 @@
+F:\claseDos\practicaDoce\bin\Debug\practicaDoce.exe.config
+F:\claseDos\practicaDoce\bin\Debug\practicaDoce.exe
+F:\claseDos\practicaDoce\bin\Debug\practicaDoce.pdb
+F:\claseDos\practicaDoce\obj\Debug\practicaDoce.csprojResolveAssemblyReference.cache
+F:\claseDos\practicaDoce\obj\Debug\practicaDoce.exe
+F:\claseDos\practicaDoce\obj\Debug\practicaDoce.pdb

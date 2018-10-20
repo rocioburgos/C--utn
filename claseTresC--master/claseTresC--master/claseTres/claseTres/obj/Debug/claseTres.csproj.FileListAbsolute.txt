@@ -1,0 +1,6 @@
+F:\claseTres\claseTres\bin\Debug\claseTres.exe.config
+F:\claseTres\claseTres\bin\Debug\claseTres.exe
+F:\claseTres\claseTres\bin\Debug\claseTres.pdb
+F:\claseTres\claseTres\obj\Debug\claseTres.csprojResolveAssemblyReference.cache
+F:\claseTres\claseTres\obj\Debug\claseTres.exe
+F:\claseTres\claseTres\obj\Debug\claseTres.pdb

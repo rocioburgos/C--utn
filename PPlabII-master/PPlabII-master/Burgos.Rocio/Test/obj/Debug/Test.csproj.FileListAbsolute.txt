@@ -1,0 +1,8 @@
+D:\Burgos.Rocio\Test\bin\Debug\Test.exe.config
+D:\Burgos.Rocio\Test\bin\Debug\Test.exe
+D:\Burgos.Rocio\Test\bin\Debug\Test.pdb
+D:\Burgos.Rocio\Test\bin\Debug\Burgos.Rocio.dll
+D:\Burgos.Rocio\Test\bin\Debug\Burgos.Rocio.pdb
+D:\Burgos.Rocio\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Burgos.Rocio\Test\obj\Debug\Test.exe
+D:\Burgos.Rocio\Test\obj\Debug\Test.pdb

@@ -1,0 +1,14 @@
+F:\Burgos.Rocio\segundaClase6\bin\Debug\segundaClase6.exe.config
+F:\Burgos.Rocio\segundaClase6\bin\Debug\segundaClase6.exe
+F:\Burgos.Rocio\segundaClase6\bin\Debug\segundaClase6.pdb
+F:\Burgos.Rocio\segundaClase6\bin\Debug\mscorlib.dll
+F:\Burgos.Rocio\segundaClase6\bin\Debug\System.Net.Http.dll
+F:\Burgos.Rocio\segundaClase6\bin\Debug\System.Net.Http.xml
+F:\Burgos.Rocio\segundaClase6\bin\Debug\es\mscorlib.resources.dll
+F:\Burgos.Rocio\segundaClase6\bin\Debug\normidna.nlp
+F:\Burgos.Rocio\segundaClase6\bin\Debug\normnfc.nlp
+F:\Burgos.Rocio\segundaClase6\bin\Debug\normnfd.nlp
+F:\Burgos.Rocio\segundaClase6\bin\Debug\normnfkc.nlp
+F:\Burgos.Rocio\segundaClase6\bin\Debug\normnfkd.nlp
+F:\Burgos.Rocio\segundaClase6\obj\Debug\segundaClase6.exe
+F:\Burgos.Rocio\segundaClase6\obj\Debug\segundaClase6.pdb

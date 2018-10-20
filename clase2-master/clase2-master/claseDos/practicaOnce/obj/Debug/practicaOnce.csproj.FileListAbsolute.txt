@@ -1,0 +1,6 @@
+F:\claseDos\practicaOnce\bin\Debug\practicaOnce.exe.config
+F:\claseDos\practicaOnce\bin\Debug\practicaOnce.exe
+F:\claseDos\practicaOnce\bin\Debug\practicaOnce.pdb
+F:\claseDos\practicaOnce\obj\Debug\practicaOnce.csprojResolveAssemblyReference.cache
+F:\claseDos\practicaOnce\obj\Debug\practicaOnce.exe
+F:\claseDos\practicaOnce\obj\Debug\practicaOnce.pdb

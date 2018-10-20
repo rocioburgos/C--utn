@@ -1,0 +1,13 @@
+F:\claseDos\practicaTrece\bin\Debug\practicaTrece.exe.config
+F:\claseDos\practicaTrece\bin\Debug\practicaTrece.exe
+F:\claseDos\practicaTrece\bin\Debug\practicaTrece.pdb
+F:\claseDos\practicaTrece\obj\Debug\practicaTrece.csprojResolveAssemblyReference.cache
+F:\claseDos\practicaTrece\obj\Debug\practicaTrece.exe
+F:\claseDos\practicaTrece\obj\Debug\practicaTrece.pdb
+E:\lab II C#\claseDos\practicaTrece\bin\Debug\practicaTrece.exe.config
+E:\lab II C#\claseDos\practicaTrece\bin\Debug\practicaTrece.exe
+E:\lab II C#\claseDos\practicaTrece\bin\Debug\practicaTrece.pdb
+E:\lab II C#\claseDos\practicaTrece\obj\Debug\practicaTrece.csprojResolveAssemblyReference.cache
+E:\lab II C#\claseDos\practicaTrece\obj\Debug\practicaTrece.csproj.CoreCompileInputs.cache
+E:\lab II C#\claseDos\practicaTrece\obj\Debug\practicaTrece.exe
+E:\lab II C#\claseDos\practicaTrece\obj\Debug\practicaTrece.pdb

@@ -1,0 +1,26 @@
+CLASE: Programacion
+Profesor: Nombre completo :Juarez, Roberto
+DNI: 32234456 Nacionalidad: Argentino
+Legajo: 2
+
+Alumnos: 
+Alumno: 
+Nombre completo :Lopez, Juan
+DNI: 12234456 Nacionalidad: Argentino
+Legajo: 1
+
+Toma clase de: Programacion
+Estado de cuenta: Becado
+
+
+Alumno: 
+Nombre completo :Gonzalez, Carlos
+DNI: 12236456 Nacionalidad: Argentino
+Legajo: 5
+
+Toma clase de: Programacion
+Estado de cuenta: AlDia
+
+
+---------------------------------------
+

@@ -1,0 +1,15 @@
+F:\Burgos.Rocio\tercerClase\bin\Debug\tercerClase.exe.config
+F:\Burgos.Rocio\tercerClase\bin\Debug\tercerClase.exe
+F:\Burgos.Rocio\tercerClase\bin\Debug\tercerClase.pdb
+F:\Burgos.Rocio\tercerClase\bin\Debug\mscorlib.dll
+F:\Burgos.Rocio\tercerClase\bin\Debug\System.Net.Http.dll
+F:\Burgos.Rocio\tercerClase\bin\Debug\System.Net.Http.xml
+F:\Burgos.Rocio\tercerClase\bin\Debug\es\mscorlib.resources.dll
+F:\Burgos.Rocio\tercerClase\bin\Debug\normidna.nlp
+F:\Burgos.Rocio\tercerClase\bin\Debug\normnfc.nlp
+F:\Burgos.Rocio\tercerClase\bin\Debug\normnfd.nlp
+F:\Burgos.Rocio\tercerClase\bin\Debug\normnfkc.nlp
+F:\Burgos.Rocio\tercerClase\bin\Debug\normnfkd.nlp
+F:\Burgos.Rocio\tercerClase\obj\Debug\tercerClase.csprojResolveAssemblyReference.cache
+F:\Burgos.Rocio\tercerClase\obj\Debug\tercerClase.exe
+F:\Burgos.Rocio\tercerClase\obj\Debug\tercerClase.pdb

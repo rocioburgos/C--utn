@@ -1,0 +1,7 @@
+E:\lab II C#\claseDos\practicaCatorce\bin\Debug\practicaCatorce.exe.config
+E:\lab II C#\claseDos\practicaCatorce\bin\Debug\practicaCatorce.exe
+E:\lab II C#\claseDos\practicaCatorce\bin\Debug\practicaCatorce.pdb
+E:\lab II C#\claseDos\practicaCatorce\obj\Debug\practicaCatorce.csprojResolveAssemblyReference.cache
+E:\lab II C#\claseDos\practicaCatorce\obj\Debug\practicaCatorce.csproj.CoreCompileInputs.cache
+E:\lab II C#\claseDos\practicaCatorce\obj\Debug\practicaCatorce.exe
+E:\lab II C#\claseDos\practicaCatorce\obj\Debug\practicaCatorce.pdb

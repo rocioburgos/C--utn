@@ -1,0 +1,24 @@
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Entidades.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Archivos.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Entidades.pdb
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+L:\Burgos.Rocio.2A.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

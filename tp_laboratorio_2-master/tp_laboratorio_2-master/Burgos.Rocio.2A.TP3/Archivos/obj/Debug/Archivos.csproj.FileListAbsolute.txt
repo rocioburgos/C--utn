@@ -1,0 +1,10 @@
+L:\Burgos.Rocio.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+L:\Burgos.Rocio.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Archivos.dll
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Entidades.dll
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Entidades.pdb
+L:\Burgos.Rocio.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+L:\Burgos.Rocio.2A.TP3\Archivos\obj\Debug\Archivos.dll
+L:\Burgos.Rocio.2A.TP3\Archivos\obj\Debug\Archivos.pdb
